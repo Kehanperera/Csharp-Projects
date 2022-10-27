@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\dialog bill\dialog bill\bin\Debug\dialog bill.exe.config
+C:\Users\DELL\source\repos\dialog bill\dialog bill\bin\Debug\dialog bill.exe
+C:\Users\DELL\source\repos\dialog bill\dialog bill\bin\Debug\dialog bill.pdb
+C:\Users\DELL\source\repos\dialog bill\dialog bill\obj\Debug\dialog bill.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\dialog bill\dialog bill\obj\Debug\dialog bill.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\dialog bill\dialog bill\obj\Debug\dialog_bill.Form1.resources
+C:\Users\DELL\source\repos\dialog bill\dialog bill\obj\Debug\dialog_bill.Properties.Resources.resources
+C:\Users\DELL\source\repos\dialog bill\dialog bill\obj\Debug\dialog bill.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\dialog bill\dialog bill\obj\Debug\dialog bill.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\dialog bill\dialog bill\obj\Debug\dialog bill.exe
+C:\Users\DELL\source\repos\dialog bill\dialog bill\obj\Debug\dialog bill.pdb
