@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\EmployeeSalary\EmployeeSalary\bin\Debug\EmployeeSalary.exe.config
+C:\Users\DELL\source\repos\EmployeeSalary\EmployeeSalary\bin\Debug\EmployeeSalary.exe
+C:\Users\DELL\source\repos\EmployeeSalary\EmployeeSalary\bin\Debug\EmployeeSalary.pdb
+C:\Users\DELL\source\repos\EmployeeSalary\EmployeeSalary\obj\Debug\EmployeeSalary.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\EmployeeSalary\EmployeeSalary\obj\Debug\EmployeeSalary.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\EmployeeSalary\EmployeeSalary\obj\Debug\EmployeeSalary.Form1.resources
+C:\Users\DELL\source\repos\EmployeeSalary\EmployeeSalary\obj\Debug\EmployeeSalary.Properties.Resources.resources
+C:\Users\DELL\source\repos\EmployeeSalary\EmployeeSalary\obj\Debug\EmployeeSalary.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\EmployeeSalary\EmployeeSalary\obj\Debug\EmployeeSalary.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\EmployeeSalary\EmployeeSalary\obj\Debug\EmployeeSalary.exe
+C:\Users\DELL\source\repos\EmployeeSalary\EmployeeSalary\obj\Debug\EmployeeSalary.pdb
